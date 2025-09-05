@@ -17,7 +17,7 @@ export default function Footer() {
     return (
         <Box id="contato">
             <Wrap>
-                © {new Date().getFullYear()} Denise Grassi · <a href="mailto:denygrassi@hotmail.com">denygrassi@hotmail.com</a>
+                © {new Date().getFullYear()} Denise Grassi · <a href="mailto:denygrassi_@hotmail.com">denygrassi_@hotmail.com</a>
             </Wrap>
         </Box>
     )
