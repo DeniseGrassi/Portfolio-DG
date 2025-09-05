@@ -4,6 +4,8 @@ import Hero from './components/Hero'
 import Skills from './components/Skills'
 import Projects from './components/Projects'
 import Footer from './components/Footer'
+import Contact from './components/Contact'
+
 
 
 const Page = styled.div`
@@ -21,6 +23,7 @@ return (
 <Skills />
 <Projects />
 </main>
+<Contact />
 <Footer />
 </Page>
 )
